@@ -34,3 +34,4 @@ int main(){
     }
     cout << t << endl;
 }
+//s.size()和s.length()除了名字不一样其他的性质都一样
